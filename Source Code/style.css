@@ -716,12 +716,12 @@ footer p{
         font-weight: bold;
     }
 
-    .show .singaleproduct img {
-        top: 0;
-        width: 90px;
-        height: 90px;
-        margin: auto;
-    }
+   .show .singaleproduct img {
+    top: 0;
+    width: 64px;
+    height: 90px;
+    margin: auto;
+}
 
     .detail {
         margin-top: 60px;
